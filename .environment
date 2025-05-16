@@ -1,0 +1,10 @@
+# .env-example
+
+# Required: Your bot token.
+BOT_TOKEN=7778008222:AAHvSQD-cYX6VIEqNQk-tpuBkU9VACpGP1s
+
+# Required: Your channel username
+CHANNEL_USERNAME=@Kali_Linux_BOTS
+
+# Optional: MongoDB connection URI.
+MONGO_URI=mongodb+srv://mrshokrullah:L7yjtsOjHzGBhaSR@cluster0.aqxyz.mongodb.net/shah?retryWrites=true&w=majority&appName=Cluster
